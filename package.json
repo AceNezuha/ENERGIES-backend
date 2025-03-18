@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://acenezuha.github.io/ENERGIES",
   "scripts": {
-    "start": "node src/backend/index.js",
+    "start": "node backend/index.js"
     "serve": "vue-cli-service serve --open",
     "dev": "npm run serve",
     "build": "vue-cli-service build",
